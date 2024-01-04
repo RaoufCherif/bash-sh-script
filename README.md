@@ -9,4 +9,7 @@ Relancer bash
 ` source .bashrc`
 
 # git merge
+
 git merge 2
+&
+git rebase 2
