@@ -7,3 +7,5 @@ Ouvrir .bashrc por ajouter un alias
 `nano .bashrc`
 Relancer bash  
 ` source .bashrc`
+
+# git merge
