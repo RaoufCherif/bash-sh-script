@@ -17,3 +17,9 @@ Relancer bash
 gerer les conflits si existent
 `git add .`
 `git rebase --continue`
+
+# kill port 
+afficher pid
+`fuser 3001/tcp`
+kill port 
+`kill -9 pid`
